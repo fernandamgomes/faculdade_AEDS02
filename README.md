@@ -1,7 +1,5 @@
 # Trabalhos Práticos: Algoritmos e Estruturas de Dados II
 
-Esse repositório armazena os 04 trabalhos desenvolvidos na disciplina Algoritmos e Estruturas de Dados II.
-
 - **TP01:** exercícios de lógica básica
 
 - **TP02:** pesquisa e estruturas sequenciais
