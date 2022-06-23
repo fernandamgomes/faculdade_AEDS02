@@ -10,6 +10,6 @@
 
 ## OBS:
 
-- o diretório tmp apresenta os arquivos html de filmes utilizados nos trabalhos 2 ao 4
+- nos tps 2 ao 4 foram usados arquivos html de filmes fornecidos pelo professor que contém dados de uma série de obras
 - o enunciado das questões de cada TP se encontra nos diretórios correspondentes
 
